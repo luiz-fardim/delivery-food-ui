@@ -33,6 +33,17 @@ Este projeto foi desenvolvido como parte dos meus estudos em **desenvolvimento w
 
 ---
 
+---
+
+## 🌐 Projeto Online
+
+Você pode acessar o projeto funcionando no link abaixo:
+
+🔗 **Acesse aqui:**  
+[Ver projeto online](https://luiz-fardim.github.io/delivery-food-ui/)
+
+---
+
 ## 📸 Preview
 
 Interface inspirada em aplicativos de delivery.
